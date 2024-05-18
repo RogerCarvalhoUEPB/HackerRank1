@@ -1,5 +1,6 @@
 # Este projeto trata-se do desafios dos 30 dias do HackerRank
 
+## Dia 00 - completo
 ## Dia 01 - completo
 ## Dia 02 - completo
 ## Dia 03 - incompleto
@@ -29,4 +30,3 @@
 ## Dia 27 - incompleto
 ## Dia 28 - incompleto
 ## Dia 29 - incompleto
-## Dia 30 - incompleto
