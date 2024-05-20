@@ -3,7 +3,7 @@
 ## Dia 00 - completo
 ## Dia 01 - completo
 ## Dia 02 - completo
-## Dia 03 - incompleto
+## Dia 03 - completo
 ## Dia 04 - incompleto
 ## Dia 05 - incompleto
 ## Dia 06 - incompleto
