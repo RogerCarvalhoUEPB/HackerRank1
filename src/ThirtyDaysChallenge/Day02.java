@@ -35,7 +35,7 @@ package ThirtyDaysChallenge;
     
     }
     
-    public class Day03 {
+    public class Day02 {
         public static void main(String[] args) throws IOException {
             BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
     

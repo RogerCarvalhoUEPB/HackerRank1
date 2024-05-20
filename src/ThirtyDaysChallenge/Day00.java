@@ -1,7 +1,7 @@
 package ThirtyDaysChallenge;
 import java.util.*;
 
-public class Day01 {
+public class Day00 {
 
     public static void main(String[] args) {
     	 /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
@@ -10,5 +10,5 @@ public class Day01 {
         inputString = scan.nextLine();
         scan.close();
         System.out.print("Hello, World.\n"+inputString);
-           }
+        }
 }
